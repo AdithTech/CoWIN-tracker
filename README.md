@@ -3,4 +3,4 @@ This Python Bot will keep track of all slots that open in the CoWIN website and 
 
 **Update the CoWIN link because the District or State I put may not be the same as yours**
 
-Video tutorial => https://youtu.be/qkTzFVWvldc
+Video tutorial => https://youtu.be/FwwogQwNOtA
